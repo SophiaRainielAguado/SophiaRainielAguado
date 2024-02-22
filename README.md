@@ -5,7 +5,7 @@
 + 😄 Pronouns: Any of the Following --> She/They/He
 + 💬 Ask me about ...
 + 📫 How to reach me: ...
-+ ⚡ Fun fact: I am achievment hunter
++ ⚡ Fun fact: I am an achievment hunter
 
 #### Projects & Misc.
 - 🔭 I’m currently working on a profolio repository
