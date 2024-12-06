@@ -1,7 +1,8 @@
 ### Greetings!
 
 #### About me
-+ I'm a CS major @ Ohlone College
++ CS major Alumni @ Ohlone College
++ Current CS:Game Design student @ UCSC
 + 😄 Pronouns: Any of the Following --> She/They/He
 + 💬 Ask me about ...
 + 📫 How to reach me: ...
